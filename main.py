@@ -120,12 +120,12 @@ def main() -> int:
 
     while True:
         clear()
-        url: str = input("Please enter the URL of the website you want to scrape: ")
+        url: str = 'https://www.capology.com/club/belgrano/salaries/2024/' #input("Please enter the URL of the website you want to scrape: ")
         contents: str = 'futbol players salaries' #input("What does the URL contain: ")
         elements: list = []  # initial value
         selectors: list = []  # initial value
         element_plurals: list = []  # initial value
-        num_elements: str = input("How many elements do you want to scrape (at least 1)? ")
+        num_elements: str = 1 #input("How many elements do you want to scrape (at least 1)? ")
         while not is_number(num_elements) or int(num_elements) < 1:
             num_elements = input("Sorry, invalid input! How many elements do you want to scrape (at least 1)? ")
 
