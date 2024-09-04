@@ -60,27 +60,27 @@ def main() -> int:
     gemini.configure(api_key=os.environ['GEMINI_API_KEY'])
 
     # Asking user input values for generation config
-    temperature: str = input("Please enter temperature (0 - 1): ")
-    while not is_number(temperature) or float(temperature) < 0 or float(temperature) > 1:
-        temperature = input("Sorry, invalid input! Please re-enter temperature (0 - 1): ")
+    temperature: str = 0 #input("Please enter temperature (0 - 1): ")
+    #while not is_number(temperature) or float(temperature) < 0 or float(temperature) > 1:
+     #   temperature = input("Sorry, invalid input! Please re-enter temperature (0 - 1): ")
 
     float_temperature: float = float(temperature)
 
-    top_p: str = input("Please enter Top P (0 - 1): ")
-    while not is_number(top_p) or float(top_p) < 0 or float(top_p) > 1:
-        top_p = input("Sorry, invalid input! Please re-enter Top P (0 - 1): ")
+    top_p: str = 0 # input("Please enter Top P (0 - 1): ")
+    #while not is_number(top_p) or float(top_p) < 0 or float(top_p) > 1:
+    #    top_p = input("Sorry, invalid input! Please re-enter Top P (0 - 1): ")
 
     float_top_p: float = float(top_p)
 
-    top_k: str = input("Please enter Top K (at least 1): ")
-    while not is_number(top_k) or int(top_k) < 1:
-        top_k = input("Sorry, invalid input! Please re-enter Top K (at least 1): ")
+    top_k: str = 1 #input("Please enter Top K (at least 1): ")
+    #while not is_number(top_k) or int(top_k) < 1:
+    #    top_k = input("Sorry, invalid input! Please re-enter Top K (at least 1): ")
 
     float_top_k: int = int(top_k)
 
-    max_output_tokens: str = input("Please enter maximum input tokens (at least 1): ")
-    while not is_number(max_output_tokens) or int(max_output_tokens) < 1:
-        max_output_tokens = input("Sorry, invalid input! Please re-enter maximum input tokens (at least 1): ")
+    max_output_tokens: str = 8100 # input("Please enter maximum input tokens (at least 1): ")
+    #while not is_number(max_output_tokens) or int(max_output_tokens) < 1:
+    #    max_output_tokens = input("Sorry, invalid input! Please re-enter maximum input tokens (at least 1): ")
 
     int_max_output_tokens: int = int(max_output_tokens)
 
@@ -111,7 +111,7 @@ def main() -> int:
         },
     ]
 
-    model = gemini.GenerativeModel(model_name="gemini-pro",
+    model = gemini.GenerativeModel(model_name="gemini-1.5-flash-001",
                                   generation_config=generation_config,
                                   safety_settings=safety_settings)
 
@@ -121,7 +121,7 @@ def main() -> int:
     while True:
         clear()
         url: str = input("Please enter the URL of the website you want to scrape: ")
-        contents: str = input("What does the URL contain: ")
+        contents: str = 'futbol players salaries' #input("What does the URL contain: ")
         elements: list = []  # initial value
         selectors: list = []  # initial value
         element_plurals: list = []  # initial value
