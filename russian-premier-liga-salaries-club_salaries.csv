@@ -1,0 +1,99 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/akhmat/salaries/,weekly-avg,"€8,395"
+,https://www.capology.com/club/akhmat/salaries/,annual-avg,"€436,538"
+,https://www.capology.com/club/akron/salaries/,weekly-avg,€0
+,https://www.capology.com/club/akron/salaries/,annual-avg,€0
+,https://www.capology.com/club/cska/salaries/,weekly-avg,"€12,795"
+,https://www.capology.com/club/cska/salaries/,annual-avg,"€665,333"
+,https://www.capology.com/club/dynamo-moscow/salaries/,weekly-avg,"€16,571"
+,https://www.capology.com/club/dynamo-moscow/salaries/,annual-avg,"€861,667"
+,https://www.capology.com/club/khimki/salaries/,weekly-avg,"€1,819"
+,https://www.capology.com/club/khimki/salaries/,annual-avg,"€94,571"
+,https://www.capology.com/club/krasnodar/salaries/,weekly-avg,"€16,723"
+,https://www.capology.com/club/krasnodar/salaries/,annual-avg,"€869,600"
+,https://www.capology.com/club/krylya/salaries/,weekly-avg,"€5,757"
+,https://www.capology.com/club/krylya/salaries/,annual-avg,"€299,375"
+,https://www.capology.com/club/lokomotiv/salaries/,weekly-avg,"€11,844"
+,https://www.capology.com/club/lokomotiv/salaries/,annual-avg,"€615,909"
+,https://www.capology.com/club/makhachkala/salaries/,weekly-avg,"€1,049"
+,https://www.capology.com/club/makhachkala/salaries/,annual-avg,"€54,545"
+,https://www.capology.com/club/nizhny/salaries/,weekly-avg,"€5,833"
+,https://www.capology.com/club/nizhny/salaries/,annual-avg,"€303,333"
+,https://www.capology.com/club/orenburg/salaries/,weekly-avg,"€5,892"
+,https://www.capology.com/club/orenburg/salaries/,annual-avg,"€306,400"
+,https://www.capology.com/club/rostov/salaries/,weekly-avg,"€7,786"
+,https://www.capology.com/club/rostov/salaries/,annual-avg,"€404,848"
+,https://www.capology.com/club/rubin-kazan/salaries/,weekly-avg,"€7,585"
+,https://www.capology.com/club/rubin-kazan/salaries/,annual-avg,"€394,444"
+,https://www.capology.com/club/spartak-moscow/salaries/,weekly-avg,"€18,811"
+,https://www.capology.com/club/spartak-moscow/salaries/,annual-avg,"€978,148"
+,https://www.capology.com/club/voronezh/salaries/,weekly-avg,"€4,559"
+,https://www.capology.com/club/voronezh/salaries/,annual-avg,"€237,083"
+,https://www.capology.com/club/zenit/salaries/,weekly-avg,"€25,276"
+,https://www.capology.com/club/zenit/salaries/,annual-avg,"€1,314,375"

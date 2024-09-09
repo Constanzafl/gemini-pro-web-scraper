@@ -1,0 +1,79 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/al-ahli/salaries/,weekly-avg,"€106,842"
+,https://www.capology.com/club/al-ahli/salaries/,annual-avg,"€5,555,806"
+,https://www.capology.com/club/al-ettifaq/salaries/,weekly-avg,"€40,740"
+,https://www.capology.com/club/al-ettifaq/salaries/,annual-avg,"€2,118,462"
+,https://www.capology.com/club/al-hilal/salaries/,weekly-avg,"€212,861"
+,https://www.capology.com/club/al-hilal/salaries/,annual-avg,"€11,068,750"
+,https://www.capology.com/club/al-ittihad/salaries/,weekly-avg,"€111,684"
+,https://www.capology.com/club/al-ittihad/salaries/,annual-avg,"€5,807,576"
+,https://www.capology.com/club/al-nassr/salaries/,weekly-avg,"€213,994"
+,https://www.capology.com/club/al-nassr/salaries/,annual-avg,"€11,127,667"
+,https://www.capology.com/club/al-shabab/salaries/,weekly-avg,"€18,109"
+,https://www.capology.com/club/al-shabab/salaries/,annual-avg,"€941,667"

@@ -1,0 +1,107 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/aguilas/salaries/2024/,weekly-avg,"$3,036"
+,https://www.capology.com/club/aguilas/salaries/2024/,annual-avg,"$157,857"
+,https://www.capology.com/club/alianza/salaries/2024/,weekly-avg,"$3,293"
+,https://www.capology.com/club/alianza/salaries/2024/,annual-avg,"$171,250"
+,https://www.capology.com/club/america-de-cali/salaries/2024/,weekly-avg,"$6,083"
+,https://www.capology.com/club/america-de-cali/salaries/2024/,annual-avg,"$316,296"
+,https://www.capology.com/club/atletico-nacional/salaries/2024/,weekly-avg,"$6,125"
+,https://www.capology.com/club/atletico-nacional/salaries/2024/,annual-avg,"$318,519"
+,https://www.capology.com/club/bucaramanga/salaries/2024/,weekly-avg,"$4,003"
+,https://www.capology.com/club/bucaramanga/salaries/2024/,annual-avg,"$208,148"
+,https://www.capology.com/club/cali/salaries/2024/,weekly-avg,"$4,800"
+,https://www.capology.com/club/cali/salaries/2024/,annual-avg,"$249,600"
+,https://www.capology.com/club/chico/salaries/2024/,weekly-avg,"$2,140"
+,https://www.capology.com/club/chico/salaries/2024/,annual-avg,"$111,290"
+,https://www.capology.com/club/envigado/salaries/2024/,weekly-avg,"$3,183"
+,https://www.capology.com/club/envigado/salaries/2024/,annual-avg,"$165,517"
+,https://www.capology.com/club/fortaleza-fc/salaries/2024/,weekly-avg,"$3,146"
+,https://www.capology.com/club/fortaleza-fc/salaries/2024/,annual-avg,"$163,600"
+,https://www.capology.com/club/jaguares/salaries/2024/,weekly-avg,"$3,718"
+,https://www.capology.com/club/jaguares/salaries/2024/,annual-avg,"$193,333"
+,https://www.capology.com/club/junior-fc/salaries/2024/,weekly-avg,"$5,341"
+,https://www.capology.com/club/junior-fc/salaries/2024/,annual-avg,"$277,742"
+,https://www.capology.com/club/la-equidad/salaries/2024/,weekly-avg,"$3,469"
+,https://www.capology.com/club/la-equidad/salaries/2024/,annual-avg,"$180,400"
+,https://www.capology.com/club/medellin/salaries/2024/,weekly-avg,"$4,237"
+,https://www.capology.com/club/medellin/salaries/2024/,annual-avg,"$220,333"
+,https://www.capology.com/club/millonarios/salaries/2024/,weekly-avg,"$5,798"
+,https://www.capology.com/club/millonarios/salaries/2024/,annual-avg,"$301,471"
+,https://www.capology.com/club/once-caldas/salaries/2024/,weekly-avg,"$3,762"
+,https://www.capology.com/club/once-caldas/salaries/2024/,annual-avg,"$195,625"
+,https://www.capology.com/club/pasto/salaries/2024/,weekly-avg,"$3,314"
+,https://www.capology.com/club/pasto/salaries/2024/,annual-avg,"$172,308"
+,https://www.capology.com/club/patriotas/salaries/2024/,weekly-avg,"$2,543"
+,https://www.capology.com/club/patriotas/salaries/2024/,annual-avg,"$132,258"
+,https://www.capology.com/club/pereira/salaries/2024/,weekly-avg,"$4,088"
+,https://www.capology.com/club/pereira/salaries/2024/,annual-avg,"$212,581"
+,https://www.capology.com/club/santa-fe/salaries/2024/,weekly-avg,"$4,867"
+,https://www.capology.com/club/santa-fe/salaries/2024/,annual-avg,"$253,077"
+,https://www.capology.com/club/tolima/salaries/2024/,weekly-avg,"$4,279"
+,https://www.capology.com/club/tolima/salaries/2024/,annual-avg,"$222,500"

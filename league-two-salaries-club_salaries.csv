@@ -1,0 +1,115 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/accrington/salaries/,weekly-avg,£623
+,https://www.capology.com/club/accrington/salaries/,annual-avg,"£32,407"
+,https://www.capology.com/club/barrow/salaries/,weekly-avg,"£1,239"
+,https://www.capology.com/club/barrow/salaries/,annual-avg,"£64,431"
+,https://www.capology.com/club/bradford/salaries/,weekly-avg,"£1,760"
+,https://www.capology.com/club/bradford/salaries/,annual-avg,"£91,544"
+,https://www.capology.com/club/bromley/salaries/,weekly-avg,£389
+,https://www.capology.com/club/bromley/salaries/,annual-avg,"£20,222"
+,https://www.capology.com/club/carlisle/salaries/,weekly-avg,"£1,520"
+,https://www.capology.com/club/carlisle/salaries/,annual-avg,"£79,064"
+,https://www.capology.com/club/cheltenham/salaries/,weekly-avg,£704
+,https://www.capology.com/club/cheltenham/salaries/,annual-avg,"£36,608"
+,https://www.capology.com/club/chesterfield/salaries/,weekly-avg,£143
+,https://www.capology.com/club/chesterfield/salaries/,annual-avg,"£7,429"
+,https://www.capology.com/club/colchester/salaries/,weekly-avg,"£1,865"
+,https://www.capology.com/club/colchester/salaries/,annual-avg,"£96,974"
+,https://www.capology.com/club/crewe/salaries/,weekly-avg,"£1,308"
+,https://www.capology.com/club/crewe/salaries/,annual-avg,"£68,016"
+,https://www.capology.com/club/doncaster/salaries/,weekly-avg,"£1,718"
+,https://www.capology.com/club/doncaster/salaries/,annual-avg,"£89,320"
+,https://www.capology.com/club/fleetwood/salaries/,weekly-avg,Elemento con ID 'weekly-avg' no encontrado en la página.
+,https://www.capology.com/club/fleetwood/salaries/,annual-avg,"£77,291"
+,https://www.capology.com/club/gillingham/salaries/,weekly-avg,"£2,059"
+,https://www.capology.com/club/gillingham/salaries/,annual-avg,"£107,089"
+,https://www.capology.com/club/grimsby/salaries/,weekly-avg,"£1,144"
+,https://www.capology.com/club/grimsby/salaries/,annual-avg,"£59,488"
+,https://www.capology.com/club/harrogate/salaries/,weekly-avg,"£1,447"
+,https://www.capology.com/club/harrogate/salaries/,annual-avg,"£75,219"
+,https://www.capology.com/club/milton-keynes/salaries/,weekly-avg,"£1,512"
+,https://www.capology.com/club/milton-keynes/salaries/,annual-avg,"£78,645"
+,https://www.capology.com/club/morecambe/salaries/,weekly-avg,"£1,152"
+,https://www.capology.com/club/morecambe/salaries/,annual-avg,"£59,904"
+,https://www.capology.com/club/newport/salaries/,weekly-avg,£781
+,https://www.capology.com/club/newport/salaries/,annual-avg,"£40,593"
+,https://www.capology.com/club/notts/salaries/,weekly-avg,"£1,162"
+,https://www.capology.com/club/notts/salaries/,annual-avg,"£60,400"
+,https://www.capology.com/club/port-vale/salaries/,weekly-avg,£976
+,https://www.capology.com/club/port-vale/salaries/,annual-avg,"£50,759"
+,https://www.capology.com/club/salford/salaries/,weekly-avg,"£1,470"
+,https://www.capology.com/club/salford/salaries/,annual-avg,"£76,459"
+,https://www.capology.com/club/swindon/salaries/,weekly-avg,£867
+,https://www.capology.com/club/swindon/salaries/,annual-avg,"£45,067"
+,https://www.capology.com/club/tranmere/salaries/,weekly-avg,"£1,681"
+,https://www.capology.com/club/tranmere/salaries/,annual-avg,"£87,400"
+,https://www.capology.com/club/walsall/salaries/,weekly-avg,"£1,025"
+,https://www.capology.com/club/walsall/salaries/,annual-avg,"£53,300"
+,https://www.capology.com/club/wimbledon/salaries/,weekly-avg,"£1,448"
+,https://www.capology.com/club/wimbledon/salaries/,annual-avg,Elemento con ID 'annual-avg' no encontrado en la página.

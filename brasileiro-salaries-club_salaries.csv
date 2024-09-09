@@ -1,0 +1,107 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/athletico-paranaense/salaries/2024/,weekly-avg,"$7,596"
+,https://www.capology.com/club/athletico-paranaense/salaries/2024/,annual-avg,"$395,000"
+,https://www.capology.com/club/atletico-mineiro/salaries/2024/,weekly-avg,"$15,685"
+,https://www.capology.com/club/atletico-mineiro/salaries/2024/,annual-avg,"$815,606"
+,https://www.capology.com/club/botafogo/salaries/2024/,weekly-avg,"$9,304"
+,https://www.capology.com/club/botafogo/salaries/2024/,annual-avg,"$483,784"
+,https://www.capology.com/club/corinthians/salaries/2024/,weekly-avg,"$12,861"
+,https://www.capology.com/club/corinthians/salaries/2024/,annual-avg,"$668,750"
+,https://www.capology.com/club/criciuma/salaries/2024/,weekly-avg,"$3,227"
+,https://www.capology.com/club/criciuma/salaries/2024/,annual-avg,"$167,813"
+,https://www.capology.com/club/cruzeiro/salaries/2024/,weekly-avg,"$8,582"
+,https://www.capology.com/club/cruzeiro/salaries/2024/,annual-avg,"$446,250"
+,https://www.capology.com/club/cuiaba/salaries/2024/,weekly-avg,"$5,357"
+,https://www.capology.com/club/cuiaba/salaries/2024/,annual-avg,"$278,571"
+,https://www.capology.com/club/esporte-clube-bahia/salaries/2024/,weekly-avg,"$11,512"
+,https://www.capology.com/club/esporte-clube-bahia/salaries/2024/,annual-avg,"$598,621"
+,https://www.capology.com/club/flamengo/salaries/2024/,weekly-avg,"$29,224"
+,https://www.capology.com/club/flamengo/salaries/2024/,annual-avg,"$1,519,655"
+,https://www.capology.com/club/fluminense/salaries/2024/,weekly-avg,"$16,170"
+,https://www.capology.com/club/fluminense/salaries/2024/,annual-avg,"$840,857"
+,https://www.capology.com/club/fortaleza/salaries/2024/,weekly-avg,"$8,070"
+,https://www.capology.com/club/fortaleza/salaries/2024/,annual-avg,"$419,655"
+,https://www.capology.com/club/goianiense/salaries/2024/,weekly-avg,"$4,026"
+,https://www.capology.com/club/goianiense/salaries/2024/,annual-avg,"$209,375"
+,https://www.capology.com/club/gremio/salaries/2024/,weekly-avg,"$13,931"
+,https://www.capology.com/club/gremio/salaries/2024/,annual-avg,"$724,412"
+,https://www.capology.com/club/internacional/salaries/2024/,weekly-avg,"$19,103"
+,https://www.capology.com/club/internacional/salaries/2024/,annual-avg,"$993,333"
+,https://www.capology.com/club/juventude/salaries/2024/,weekly-avg,"$2,879"
+,https://www.capology.com/club/juventude/salaries/2024/,annual-avg,"$149,697"
+,https://www.capology.com/club/palmeiras/salaries/2024/,weekly-avg,"$21,000"
+,https://www.capology.com/club/palmeiras/salaries/2024/,annual-avg,"$1,092,000"
+,https://www.capology.com/club/red-bull-bragantino/salaries/2024/,weekly-avg,"$8,117"
+,https://www.capology.com/club/red-bull-bragantino/salaries/2024/,annual-avg,"$422,069"
+,https://www.capology.com/club/sao-paulo/salaries/2024/,weekly-avg,"$12,196"
+,https://www.capology.com/club/sao-paulo/salaries/2024/,annual-avg,"$634,211"
+,https://www.capology.com/club/vasco-da-gama/salaries/2024/,weekly-avg,"$8,770"
+,https://www.capology.com/club/vasco-da-gama/salaries/2024/,annual-avg,"$456,061"
+,https://www.capology.com/club/vitoria/salaries/2024/,weekly-avg,"$4,406"
+,https://www.capology.com/club/vitoria/salaries/2024/,annual-avg,"$229,091"

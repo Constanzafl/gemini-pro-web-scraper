@@ -1,0 +1,103 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/braunschweiger/salaries/,weekly-avg,"€4,216"
+,https://www.capology.com/club/braunschweiger/salaries/,annual-avg,"€219,231"
+,https://www.capology.com/club/darmstadt/salaries/,weekly-avg,"€6,514"
+,https://www.capology.com/club/darmstadt/salaries/,annual-avg,"€338,750"
+,https://www.capology.com/club/dusseldorf/salaries/,weekly-avg,"€10,089"
+,https://www.capology.com/club/dusseldorf/salaries/,annual-avg,"€524,615"
+,https://www.capology.com/club/elversberg/salaries/,weekly-avg,"€3,502"
+,https://www.capology.com/club/elversberg/salaries/,annual-avg,"€182,083"
+,https://www.capology.com/club/furth/salaries/,weekly-avg,"€6,827"
+,https://www.capology.com/club/furth/salaries/,annual-avg,"€355,000"
+,https://www.capology.com/club/hamburg/salaries/,weekly-avg,"€11,898"
+,https://www.capology.com/club/hamburg/salaries/,annual-avg,"€618,710"
+,https://www.capology.com/club/hannover/salaries/,weekly-avg,"€12,054"
+,https://www.capology.com/club/hannover/salaries/,annual-avg,"€626,800"
+,https://www.capology.com/club/hertha-berlin/salaries/,weekly-avg,"€10,463"
+,https://www.capology.com/club/hertha-berlin/salaries/,annual-avg,"€544,054"
+,https://www.capology.com/club/jahn/salaries/,weekly-avg,€631
+,https://www.capology.com/club/jahn/salaries/,annual-avg,"€32,813"
+,https://www.capology.com/club/kaiserslautern/salaries/,weekly-avg,"€4,382"
+,https://www.capology.com/club/kaiserslautern/salaries/,annual-avg,"€227,857"
+,https://www.capology.com/club/karlsruher/salaries/,weekly-avg,"€4,599"
+,https://www.capology.com/club/karlsruher/salaries/,annual-avg,"€239,130"
+,https://www.capology.com/club/koln/salaries/,weekly-avg,"€10,571"
+,https://www.capology.com/club/koln/salaries/,annual-avg,"€549,697"
+,https://www.capology.com/club/magdeburg/salaries/,weekly-avg,"€2,953"
+,https://www.capology.com/club/magdeburg/salaries/,annual-avg,"€153,548"
+,https://www.capology.com/club/munster/salaries/,weekly-avg,€0
+,https://www.capology.com/club/munster/salaries/,annual-avg,€0
+,https://www.capology.com/club/nurnberg/salaries/,weekly-avg,"€5,438"
+,https://www.capology.com/club/nurnberg/salaries/,annual-avg,"€282,759"
+,https://www.capology.com/club/paderborn/salaries/,weekly-avg,"€3,846"
+,https://www.capology.com/club/paderborn/salaries/,annual-avg,"€200,000"
+,https://www.capology.com/club/schalke-04/salaries/,weekly-avg,"€10,639"
+,https://www.capology.com/club/schalke-04/salaries/,annual-avg,"€553,235"
+,https://www.capology.com/club/ulm/salaries/,weekly-avg,€247
+,https://www.capology.com/club/ulm/salaries/,annual-avg,"€12,857"

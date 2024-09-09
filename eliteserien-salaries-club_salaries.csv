@@ -1,0 +1,99 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/bodo-glimt/salaries/2024/,weekly-avg,"€4,542"
+,https://www.capology.com/club/bodo-glimt/salaries/2024/,annual-avg,"€236,207"
+,https://www.capology.com/club/brann/salaries/2024/,weekly-avg,"€2,115"
+,https://www.capology.com/club/brann/salaries/2024/,annual-avg,"€110,000"
+,https://www.capology.com/club/fredrikstad/salaries/2024/,weekly-avg,"€1,456"
+,https://www.capology.com/club/fredrikstad/salaries/2024/,annual-avg,"€75,714"
+,https://www.capology.com/club/hamkam/salaries/2024/,weekly-avg,"€1,438"
+,https://www.capology.com/club/hamkam/salaries/2024/,annual-avg,"€74,800"
+,https://www.capology.com/club/haugesund/salaries/2024/,weekly-avg,"€1,106"
+,https://www.capology.com/club/haugesund/salaries/2024/,annual-avg,"€57,500"
+,https://www.capology.com/club/kfum/salaries/2024/,weekly-avg,€917
+,https://www.capology.com/club/kfum/salaries/2024/,annual-avg,"€47,679"
+,https://www.capology.com/club/kristiansund/salaries/2024/,weekly-avg,"€1,324"
+,https://www.capology.com/club/kristiansund/salaries/2024/,annual-avg,"€68,846"
+,https://www.capology.com/club/lillestrom/salaries/2024/,weekly-avg,"€1,878"
+,https://www.capology.com/club/lillestrom/salaries/2024/,annual-avg,"€97,667"
+,https://www.capology.com/club/molde/salaries/2024/,weekly-avg,"€3,674"
+,https://www.capology.com/club/molde/salaries/2024/,annual-avg,"€191,071"
+,https://www.capology.com/club/odd/salaries/2024/,weekly-avg,"€1,501"
+,https://www.capology.com/club/odd/salaries/2024/,annual-avg,"€78,077"
+,https://www.capology.com/club/rosenborg/salaries/2024/,weekly-avg,"€2,404"
+,https://www.capology.com/club/rosenborg/salaries/2024/,annual-avg,"€125,000"
+,https://www.capology.com/club/sandefjord/salaries/2024/,weekly-avg,"€1,279"
+,https://www.capology.com/club/sandefjord/salaries/2024/,annual-avg,"€66,522"
+,https://www.capology.com/club/sarpsborg/salaries/2024/,weekly-avg,"€1,477"
+,https://www.capology.com/club/sarpsborg/salaries/2024/,annual-avg,"€76,786"
+,https://www.capology.com/club/stromsgodset/salaries/2024/,weekly-avg,"€1,517"
+,https://www.capology.com/club/stromsgodset/salaries/2024/,annual-avg,"€78,889"
+,https://www.capology.com/club/tromso/salaries/2024/,weekly-avg,"€1,231"
+,https://www.capology.com/club/tromso/salaries/2024/,annual-avg,"€64,000"
+,https://www.capology.com/club/viking/salaries/2024/,weekly-avg,"€2,372"
+,https://www.capology.com/club/viking/salaries/2024/,annual-avg,"€123,333"

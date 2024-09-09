@@ -1,0 +1,115 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/barnsley/salaries/,weekly-avg,"£3,306"
+,https://www.capology.com/club/barnsley/salaries/,annual-avg,"£171,896"
+,https://www.capology.com/club/birmingham/salaries/,weekly-avg,"£4,593"
+,https://www.capology.com/club/birmingham/salaries/,annual-avg,"£238,815"
+,https://www.capology.com/club/blackpool/salaries/,weekly-avg,"£3,022"
+,https://www.capology.com/club/blackpool/salaries/,annual-avg,"£157,154"
+,https://www.capology.com/club/bolton/salaries/,weekly-avg,"£2,911"
+,https://www.capology.com/club/bolton/salaries/,annual-avg,"£151,360"
+,https://www.capology.com/club/bristol-rovers/salaries/,weekly-avg,"£2,477"
+,https://www.capology.com/club/bristol-rovers/salaries/,annual-avg,"£128,815"
+,https://www.capology.com/club/burton/salaries/,weekly-avg,£723
+,https://www.capology.com/club/burton/salaries/,annual-avg,"£37,607"
+,https://www.capology.com/club/cambridge/salaries/,weekly-avg,"£2,641"
+,https://www.capology.com/club/cambridge/salaries/,annual-avg,"£137,320"
+,https://www.capology.com/club/charlton/salaries/,weekly-avg,"£2,243"
+,https://www.capology.com/club/charlton/salaries/,annual-avg,"£116,662"
+,https://www.capology.com/club/crawley/salaries/,weekly-avg,£600
+,https://www.capology.com/club/crawley/salaries/,annual-avg,"£31,213"
+,https://www.capology.com/club/exeter/salaries/,weekly-avg,"£1,958"
+,https://www.capology.com/club/exeter/salaries/,annual-avg,"£101,820"
+,https://www.capology.com/club/huddersfield/salaries/,weekly-avg,"£6,496"
+,https://www.capology.com/club/huddersfield/salaries/,annual-avg,"£337,786"
+,https://www.capology.com/club/leyton/salaries/,weekly-avg,"£1,884"
+,https://www.capology.com/club/leyton/salaries/,annual-avg,"£97,992"
+,https://www.capology.com/club/lincoln/salaries/,weekly-avg,"£1,924"
+,https://www.capology.com/club/lincoln/salaries/,annual-avg,"£100,038"
+,https://www.capology.com/club/mansfield/salaries/,weekly-avg,"£2,480"
+,https://www.capology.com/club/mansfield/salaries/,annual-avg,"£128,971"
+,https://www.capology.com/club/northampton/salaries/,weekly-avg,"£1,482"
+,https://www.capology.com/club/northampton/salaries/,annual-avg,"£77,057"
+,https://www.capology.com/club/peterborough/salaries/,weekly-avg,"£1,176"
+,https://www.capology.com/club/peterborough/salaries/,annual-avg,"£61,131"
+,https://www.capology.com/club/reading/salaries/,weekly-avg,"£4,247"
+,https://www.capology.com/club/reading/salaries/,annual-avg,"£220,857"
+,https://www.capology.com/club/rotherham/salaries/,weekly-avg,"£2,445"
+,https://www.capology.com/club/rotherham/salaries/,annual-avg,"£127,154"
+,https://www.capology.com/club/shrewsbury/salaries/,weekly-avg,"£1,145"
+,https://www.capology.com/club/shrewsbury/salaries/,annual-avg,"£59,522"
+,https://www.capology.com/club/stevenage/salaries/,weekly-avg,"£1,426"
+,https://www.capology.com/club/stevenage/salaries/,annual-avg,"£74,131"
+,https://www.capology.com/club/stockport/salaries/,weekly-avg,"£2,471"
+,https://www.capology.com/club/stockport/salaries/,annual-avg,"£128,486"
+,https://www.capology.com/club/wigan/salaries/,weekly-avg,"£2,245"
+,https://www.capology.com/club/wigan/salaries/,annual-avg,"£116,740"
+,https://www.capology.com/club/wrexham/salaries/,weekly-avg,"£2,881"
+,https://www.capology.com/club/wrexham/salaries/,annual-avg,"£149,827"
+,https://www.capology.com/club/wycombe/salaries/,weekly-avg,"£2,132"
+,https://www.capology.com/club/wycombe/salaries/,annual-avg,"£110,875"

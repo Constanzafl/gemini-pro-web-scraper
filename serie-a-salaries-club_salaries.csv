@@ -1,0 +1,107 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/ac-milan/salaries/,weekly-avg,"€67,415"
+,https://www.capology.com/club/ac-milan/salaries/,annual-avg,"€3,505,556"
+,https://www.capology.com/club/atalanta/salaries/,weekly-avg,"€40,057"
+,https://www.capology.com/club/atalanta/salaries/,annual-avg,"€2,082,963"
+,https://www.capology.com/club/bologna/salaries/,weekly-avg,"€18,112"
+,https://www.capology.com/club/bologna/salaries/,annual-avg,"€941,818"
+,https://www.capology.com/club/cagliari/salaries/,weekly-avg,"€13,765"
+,https://www.capology.com/club/cagliari/salaries/,annual-avg,"€715,769"
+,https://www.capology.com/club/como/salaries/,weekly-avg,"€14,280"
+,https://www.capology.com/club/como/salaries/,annual-avg,"€742,571"
+,https://www.capology.com/club/empoli/salaries/,weekly-avg,"€12,150"
+,https://www.capology.com/club/empoli/salaries/,annual-avg,"€631,786"
+,https://www.capology.com/club/fiorentina/salaries/,weekly-avg,"€38,564"
+,https://www.capology.com/club/fiorentina/salaries/,annual-avg,"€2,005,333"
+,https://www.capology.com/club/genoa/salaries/,weekly-avg,"€18,654"
+,https://www.capology.com/club/genoa/salaries/,annual-avg,"€970,000"
+,https://www.capology.com/club/hellas-verona/salaries/,weekly-avg,"€8,715"
+,https://www.capology.com/club/hellas-verona/salaries/,annual-avg,"€453,158"
+,https://www.capology.com/club/inter-milan/salaries/,weekly-avg,"€96,113"
+,https://www.capology.com/club/inter-milan/salaries/,annual-avg,"€4,997,857"
+,https://www.capology.com/club/juventus/salaries/,weekly-avg,"€74,206"
+,https://www.capology.com/club/juventus/salaries/,annual-avg,"€3,858,733"
+,https://www.capology.com/club/lazio/salaries/,weekly-avg,"€46,889"
+,https://www.capology.com/club/lazio/salaries/,annual-avg,"€2,438,214"
+,https://www.capology.com/club/lecce/salaries/,weekly-avg,"€6,737"
+,https://www.capology.com/club/lecce/salaries/,annual-avg,"€350,303"
+,https://www.capology.com/club/monza/salaries/,weekly-avg,"€20,014"
+,https://www.capology.com/club/monza/salaries/,annual-avg,"€1,040,714"
+,https://www.capology.com/club/napoli/salaries/,weekly-avg,"€58,874"
+,https://www.capology.com/club/napoli/salaries/,annual-avg,"€3,061,429"
+,https://www.capology.com/club/parma/salaries/,weekly-avg,"€11,795"
+,https://www.capology.com/club/parma/salaries/,annual-avg,"€613,333"
+,https://www.capology.com/club/roma/salaries/,weekly-avg,"€70,144"
+,https://www.capology.com/club/roma/salaries/,annual-avg,"€3,647,500"
+,https://www.capology.com/club/torino/salaries/,weekly-avg,"€23,528"
+,https://www.capology.com/club/torino/salaries/,annual-avg,"€1,223,448"
+,https://www.capology.com/club/udinese/salaries/,weekly-avg,"€11,941"
+,https://www.capology.com/club/udinese/salaries/,annual-avg,"€620,909"
+,https://www.capology.com/club/venezia/salaries/,weekly-avg,"€9,305"
+,https://www.capology.com/club/venezia/salaries/,annual-avg,"€483,871"

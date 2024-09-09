@@ -1,0 +1,99 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/anderlecht/salaries/,weekly-avg,"€19,407"
+,https://www.capology.com/club/anderlecht/salaries/,annual-avg,"€1,009,167"
+,https://www.capology.com/club/beerschot-va/salaries/,weekly-avg,€288
+,https://www.capology.com/club/beerschot-va/salaries/,annual-avg,"€15,000"
+,https://www.capology.com/club/cercle-brugges/salaries/,weekly-avg,"€3,743"
+,https://www.capology.com/club/cercle-brugges/salaries/,annual-avg,"€194,615"
+,https://www.capology.com/club/charleroi/salaries/,weekly-avg,"€3,928"
+,https://www.capology.com/club/charleroi/salaries/,annual-avg,"€204,231"
+,https://www.capology.com/club/club-brugges/salaries/,weekly-avg,"€16,683"
+,https://www.capology.com/club/club-brugges/salaries/,annual-avg,"€867,500"
+,https://www.capology.com/club/dender/salaries/,weekly-avg,€343
+,https://www.capology.com/club/dender/salaries/,annual-avg,"€17,857"
+,https://www.capology.com/club/genk/salaries/,weekly-avg,"€9,562"
+,https://www.capology.com/club/genk/salaries/,annual-avg,"€497,200"
+,https://www.capology.com/club/gent/salaries/,weekly-avg,"€8,889"
+,https://www.capology.com/club/gent/salaries/,annual-avg,"€462,222"
+,https://www.capology.com/club/kortrijk/salaries/,weekly-avg,"€4,075"
+,https://www.capology.com/club/kortrijk/salaries/,annual-avg,"€211,923"
+,https://www.capology.com/club/leuven/salaries/,weekly-avg,"€4,900"
+,https://www.capology.com/club/leuven/salaries/,annual-avg,"€254,800"
+,https://www.capology.com/club/mechelen/salaries/,weekly-avg,"€4,473"
+,https://www.capology.com/club/mechelen/salaries/,annual-avg,"€232,593"
+,https://www.capology.com/club/royal-antwerp/salaries/,weekly-avg,"€8,013"
+,https://www.capology.com/club/royal-antwerp/salaries/,annual-avg,"€416,667"
+,https://www.capology.com/club/sint-truidense/salaries/,weekly-avg,"€3,001"
+,https://www.capology.com/club/sint-truidense/salaries/,annual-avg,"€156,071"
+,https://www.capology.com/club/standard-liege/salaries/,weekly-avg,"€6,277"
+,https://www.capology.com/club/standard-liege/salaries/,annual-avg,"€326,429"
+,https://www.capology.com/club/union-sg/salaries/,weekly-avg,"€3,979"
+,https://www.capology.com/club/union-sg/salaries/,annual-avg,"€206,897"
+,https://www.capology.com/club/westerlo/salaries/,weekly-avg,"€5,694"
+,https://www.capology.com/club/westerlo/salaries/,annual-avg,"€296,071"

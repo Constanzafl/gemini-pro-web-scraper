@@ -1,0 +1,123 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/argentinos-juniors/salaries/2024/,weekly-avg,"$3,017"
+,https://www.capology.com/club/argentinos-juniors/salaries/2024/,annual-avg,"$156,897"
+,https://www.capology.com/club/banfield/salaries/2024/,weekly-avg,"$3,195"
+,https://www.capology.com/club/banfield/salaries/2024/,annual-avg,"$166,129"
+,https://www.capology.com/club/barracas/salaries/2024/,weekly-avg,"$2,897"
+,https://www.capology.com/club/barracas/salaries/2024/,annual-avg,"$150,667"
+,https://www.capology.com/club/belgrano/salaries/2024/,weekly-avg,"$3,821"
+,https://www.capology.com/club/belgrano/salaries/2024/,annual-avg,"$198,667"
+,https://www.capology.com/club/boca-juniors/salaries/2024/,weekly-avg,"$11,844"
+,https://www.capology.com/club/boca-juniors/salaries/2024/,annual-avg,"$615,882"
+,https://www.capology.com/club/central-cordoba/salaries/2024/,weekly-avg,"$1,390"
+,https://www.capology.com/club/central-cordoba/salaries/2024/,annual-avg,"$72,286"
+,https://www.capology.com/club/defensa-y-justicia/salaries/2024/,weekly-avg,"$2,624"
+,https://www.capology.com/club/defensa-y-justicia/salaries/2024/,annual-avg,"$136,452"
+,https://www.capology.com/club/estudiantes/salaries/2024/,weekly-avg,"$8,033"
+,https://www.capology.com/club/estudiantes/salaries/2024/,annual-avg,"$417,692"
+,https://www.capology.com/club/gimnasia-la-plata/salaries/2024/,weekly-avg,"$3,962"
+,https://www.capology.com/club/gimnasia-la-plata/salaries/2024/,annual-avg,"$206,000"
+,https://www.capology.com/club/godoy-cruz/salaries/2024/,weekly-avg,"$3,054"
+,https://www.capology.com/club/godoy-cruz/salaries/2024/,annual-avg,"$158,800"
+,https://www.capology.com/club/huracan/salaries/2024/,weekly-avg,"$4,962"
+,https://www.capology.com/club/huracan/salaries/2024/,annual-avg,"$258,000"
+,https://www.capology.com/club/independiente/salaries/2024/,weekly-avg,"$5,045"
+,https://www.capology.com/club/independiente/salaries/2024/,annual-avg,"$262,353"
+,https://www.capology.com/club/instituto/salaries/2024/,weekly-avg,"$4,123"
+,https://www.capology.com/club/instituto/salaries/2024/,annual-avg,"$214,400"
+,https://www.capology.com/club/lanus/salaries/2024/,weekly-avg,"$5,762"
+,https://www.capology.com/club/lanus/salaries/2024/,annual-avg,"$299,600"
+,https://www.capology.com/club/newells-old-boys/salaries/2024/,weekly-avg,"$4,933"
+,https://www.capology.com/club/newells-old-boys/salaries/2024/,annual-avg,"$256,538"
+,https://www.capology.com/club/platense/salaries/2024/,weekly-avg,"$2,542"
+,https://www.capology.com/club/platense/salaries/2024/,annual-avg,"$132,188"
+,https://www.capology.com/club/racing-club/salaries/2024/,weekly-avg,"$9,265"
+,https://www.capology.com/club/racing-club/salaries/2024/,annual-avg,"$481,786"
+,https://www.capology.com/club/riestra/salaries/2024/,weekly-avg,"$1,702"
+,https://www.capology.com/club/riestra/salaries/2024/,annual-avg,"$88,485"
+,https://www.capology.com/club/rivadavia/salaries/2024/,weekly-avg,"$2,260"
+,https://www.capology.com/club/rivadavia/salaries/2024/,annual-avg,"$117,500"
+,https://www.capology.com/club/river-plate/salaries/2024/,weekly-avg,"$17,347"
+,https://www.capology.com/club/river-plate/salaries/2024/,annual-avg,"$902,031"
+,https://www.capology.com/club/rosario-central/salaries/2024/,weekly-avg,"$5,060"
+,https://www.capology.com/club/rosario-central/salaries/2024/,annual-avg,"$263,103"
+,https://www.capology.com/club/san-lorenzo/salaries/2024/,weekly-avg,"$5,370"
+,https://www.capology.com/club/san-lorenzo/salaries/2024/,annual-avg,"$279,231"
+,https://www.capology.com/club/sarmiento/salaries/2024/,weekly-avg,"$3,381"
+,https://www.capology.com/club/sarmiento/salaries/2024/,annual-avg,"$175,806"
+,https://www.capology.com/club/talleres/salaries/2024/,weekly-avg,"$4,396"
+,https://www.capology.com/club/talleres/salaries/2024/,annual-avg,"$228,571"
+,https://www.capology.com/club/tigre/salaries/2024/,weekly-avg,"$2,195"
+,https://www.capology.com/club/tigre/salaries/2024/,annual-avg,"$114,138"
+,https://www.capology.com/club/tucuman/salaries/2024/,weekly-avg,"$2,607"
+,https://www.capology.com/club/tucuman/salaries/2024/,annual-avg,"$135,556"
+,https://www.capology.com/club/union/salaries/2024/,weekly-avg,"$4,186"
+,https://www.capology.com/club/union/salaries/2024/,annual-avg,"$217,692"
+,https://www.capology.com/club/velez-sarsfield/salaries/2024/,weekly-avg,"$8,694"
+,https://www.capology.com/club/velez-sarsfield/salaries/2024/,annual-avg,"$452,069"

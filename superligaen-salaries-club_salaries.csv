@@ -1,0 +1,91 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/aalborg/salaries/,weekly-avg,€0
+,https://www.capology.com/club/aalborg/salaries/,annual-avg,€0
+,https://www.capology.com/club/aarhus/salaries/,weekly-avg,"€2,984"
+,https://www.capology.com/club/aarhus/salaries/,annual-avg,"€155,172"
+,https://www.capology.com/club/brondby/salaries/,weekly-avg,"€6,738"
+,https://www.capology.com/club/brondby/salaries/,annual-avg,"€350,400"
+,https://www.capology.com/club/copenhagen/salaries/,weekly-avg,"€12,885"
+,https://www.capology.com/club/copenhagen/salaries/,annual-avg,"€670,000"
+,https://www.capology.com/club/lyngby/salaries/,weekly-avg,"€2,108"
+,https://www.capology.com/club/lyngby/salaries/,annual-avg,"€109,615"
+,https://www.capology.com/club/midtjylland/salaries/,weekly-avg,"€6,274"
+,https://www.capology.com/club/midtjylland/salaries/,annual-avg,"€326,250"
+,https://www.capology.com/club/nordsjaelland/salaries/,weekly-avg,"€3,830"
+,https://www.capology.com/club/nordsjaelland/salaries/,annual-avg,"€199,167"
+,https://www.capology.com/club/randers/salaries/,weekly-avg,"€2,550"
+,https://www.capology.com/club/randers/salaries/,annual-avg,"€132,593"
+,https://www.capology.com/club/silkeborg/salaries/,weekly-avg,"€2,207"
+,https://www.capology.com/club/silkeborg/salaries/,annual-avg,"€114,783"
+,https://www.capology.com/club/sonderjyske/salaries/,weekly-avg,€62
+,https://www.capology.com/club/sonderjyske/salaries/,annual-avg,"€3,214"
+,https://www.capology.com/club/vejle/salaries/,weekly-avg,"€1,964"
+,https://www.capology.com/club/vejle/salaries/,annual-avg,"€102,143"
+,https://www.capology.com/club/viborg/salaries/,weekly-avg,"€1,992"
+,https://www.capology.com/club/viborg/salaries/,annual-avg,"€103,600"

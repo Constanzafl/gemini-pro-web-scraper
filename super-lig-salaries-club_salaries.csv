@@ -1,0 +1,105 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/adana-demirspor/salaries/,weekly-avg,"€4,365"
+,https://www.capology.com/club/adana-demirspor/salaries/,annual-avg,"€227,000"
+,https://www.capology.com/club/alanyaspor/salaries/,weekly-avg,"€6,469"
+,https://www.capology.com/club/alanyaspor/salaries/,annual-avg,"€336,389"
+,https://www.capology.com/club/antalyaspor/salaries/,weekly-avg,"€7,048"
+,https://www.capology.com/club/antalyaspor/salaries/,annual-avg,"€366,522"
+,https://www.capology.com/club/basaksehir/salaries/,weekly-avg,"€10,621"
+,https://www.capology.com/club/basaksehir/salaries/,annual-avg,"€552,273"
+,https://www.capology.com/club/besiktas/salaries/,weekly-avg,"€30,362"
+,https://www.capology.com/club/besiktas/salaries/,annual-avg,"€1,578,824"
+,https://www.capology.com/club/bodrum/salaries/,weekly-avg,€0
+,https://www.capology.com/club/bodrum/salaries/,annual-avg,€0
+,https://www.capology.com/club/caykur-rizespor/salaries/,weekly-avg,"€4,644"
+,https://www.capology.com/club/caykur-rizespor/salaries/,annual-avg,"€241,500"
+,https://www.capology.com/club/eyupspor/salaries/,weekly-avg,€459
+,https://www.capology.com/club/eyupspor/salaries/,annual-avg,"€23,846"
+,https://www.capology.com/club/fenerbahce/salaries/,weekly-avg,"€35,258"
+,https://www.capology.com/club/fenerbahce/salaries/,annual-avg,"€1,833,415"
+,https://www.capology.com/club/galatasaray/salaries/,weekly-avg,"€35,471"
+,https://www.capology.com/club/galatasaray/salaries/,annual-avg,"€1,844,468"
+,https://www.capology.com/club/gaziantep-bb/salaries/,weekly-avg,"€5,385"
+,https://www.capology.com/club/gaziantep-bb/salaries/,annual-avg,"€280,000"
+,https://www.capology.com/club/goztepe/salaries/,weekly-avg,"€2,456"
+,https://www.capology.com/club/goztepe/salaries/,annual-avg,"€127,692"
+,https://www.capology.com/club/hatayspor/salaries/,weekly-avg,"€5,516"
+,https://www.capology.com/club/hatayspor/salaries/,annual-avg,"€286,857"
+,https://www.capology.com/club/kasimpasa/salaries/,weekly-avg,"€5,392"
+,https://www.capology.com/club/kasimpasa/salaries/,annual-avg,"€280,400"
+,https://www.capology.com/club/kayserispor/salaries/,weekly-avg,"€8,508"
+,https://www.capology.com/club/kayserispor/salaries/,annual-avg,"€442,424"
+,https://www.capology.com/club/konyaspor/salaries/,weekly-avg,"€5,735"
+,https://www.capology.com/club/konyaspor/salaries/,annual-avg,"€298,214"
+,https://www.capology.com/club/samsunspor/salaries/,weekly-avg,"€7,573"
+,https://www.capology.com/club/samsunspor/salaries/,annual-avg,"€393,810"
+,https://www.capology.com/club/sivasspor/salaries/,weekly-avg,"€6,654"
+,https://www.capology.com/club/sivasspor/salaries/,annual-avg,"€346,000"
+,https://www.capology.com/club/trabzonspor/salaries/,weekly-avg,"€16,592"
+,https://www.capology.com/club/trabzonspor/salaries/,annual-avg,"€862,766"

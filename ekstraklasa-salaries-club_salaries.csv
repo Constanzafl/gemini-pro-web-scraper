@@ -1,0 +1,103 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/cracovia/salaries/,weekly-avg,"€2,266"
+,https://www.capology.com/club/cracovia/salaries/,annual-avg,"€117,857"
+,https://www.capology.com/club/gornik-zabrze/salaries/,weekly-avg,"€1,176"
+,https://www.capology.com/club/gornik-zabrze/salaries/,annual-avg,"€61,154"
+,https://www.capology.com/club/jagiellonia/salaries/,weekly-avg,"€1,880"
+,https://www.capology.com/club/jagiellonia/salaries/,annual-avg,"€97,778"
+,https://www.capology.com/club/katowice/salaries/,weekly-avg,€0
+,https://www.capology.com/club/katowice/salaries/,annual-avg,€0
+,https://www.capology.com/club/korona-kielce/salaries/,weekly-avg,"€1,013"
+,https://www.capology.com/club/korona-kielce/salaries/,annual-avg,"€52,667"
+,https://www.capology.com/club/lechia-gdansk/salaries/,weekly-avg,€0
+,https://www.capology.com/club/lechia-gdansk/salaries/,annual-avg,€0
+,https://www.capology.com/club/lech-poznan/salaries/,weekly-avg,"€4,090"
+,https://www.capology.com/club/lech-poznan/salaries/,annual-avg,"€212,692"
+,https://www.capology.com/club/legia/salaries/,weekly-avg,"€4,406"
+,https://www.capology.com/club/legia/salaries/,annual-avg,"€229,091"
+,https://www.capology.com/club/motor-lublin/salaries/,weekly-avg,€0
+,https://www.capology.com/club/motor-lublin/salaries/,annual-avg,€0
+,https://www.capology.com/club/piast-gliwice/salaries/,weekly-avg,"€1,648"
+,https://www.capology.com/club/piast-gliwice/salaries/,annual-avg,"€85,714"
+,https://www.capology.com/club/pogon-szczecin/salaries/,weekly-avg,"€2,394"
+,https://www.capology.com/club/pogon-szczecin/salaries/,annual-avg,"€124,483"
+,https://www.capology.com/club/puszcza-niepolomice/salaries/,weekly-avg,€564
+,https://www.capology.com/club/puszcza-niepolomice/salaries/,annual-avg,"€29,310"
+,https://www.capology.com/club/radomiak-radom/salaries/,weekly-avg,"€1,187"
+,https://www.capology.com/club/radomiak-radom/salaries/,annual-avg,"€61,724"
+,https://www.capology.com/club/rakow/salaries/,weekly-avg,"€1,930"
+,https://www.capology.com/club/rakow/salaries/,annual-avg,"€100,345"
+,https://www.capology.com/club/slask/salaries/,weekly-avg,"€1,582"
+,https://www.capology.com/club/slask/salaries/,annual-avg,"€82,258"
+,https://www.capology.com/club/stal/salaries/,weekly-avg,€875
+,https://www.capology.com/club/stal/salaries/,annual-avg,"€45,517"
+,https://www.capology.com/club/widzew/salaries/,weekly-avg,"€1,401"
+,https://www.capology.com/club/widzew/salaries/,annual-avg,"€72,857"
+,https://www.capology.com/club/zaglebie/salaries/,weekly-avg,"€1,439"
+,https://www.capology.com/club/zaglebie/salaries/,annual-avg,"€74,828"

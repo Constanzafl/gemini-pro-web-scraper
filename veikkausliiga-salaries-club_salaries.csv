@@ -1,0 +1,91 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/eif/salaries/2024/,weekly-avg,€472
+,https://www.capology.com/club/eif/salaries/2024/,annual-avg,"€24,519"
+,https://www.capology.com/club/gnistan/salaries/2024/,weekly-avg,€670
+,https://www.capology.com/club/gnistan/salaries/2024/,annual-avg,"€34,833"
+,https://www.capology.com/club/haka/salaries/2024/,weekly-avg,€845
+,https://www.capology.com/club/haka/salaries/2024/,annual-avg,"€43,958"
+,https://www.capology.com/club/hjk/salaries/2024/,weekly-avg,"€1,920"
+,https://www.capology.com/club/hjk/salaries/2024/,annual-avg,"€99,815"
+,https://www.capology.com/club/ilves/salaries/2024/,weekly-avg,€969
+,https://www.capology.com/club/ilves/salaries/2024/,annual-avg,"€50,400"
+,https://www.capology.com/club/inter-turku/salaries/2024/,weekly-avg,€865
+,https://www.capology.com/club/inter-turku/salaries/2024/,annual-avg,"€45,000"
+,https://www.capology.com/club/kups/salaries/2024/,weekly-avg,"€1,114"
+,https://www.capology.com/club/kups/salaries/2024/,annual-avg,"€57,917"
+,https://www.capology.com/club/lahti/salaries/2024/,weekly-avg,€894
+,https://www.capology.com/club/lahti/salaries/2024/,annual-avg,"€46,481"
+,https://www.capology.com/club/mariehamn/salaries/2024/,weekly-avg,€647
+,https://www.capology.com/club/mariehamn/salaries/2024/,annual-avg,"€33,654"
+,https://www.capology.com/club/oulu/salaries/2024/,weekly-avg,€761
+,https://www.capology.com/club/oulu/salaries/2024/,annual-avg,"€39,559"
+,https://www.capology.com/club/sjk/salaries/2024/,weekly-avg,€977
+,https://www.capology.com/club/sjk/salaries/2024/,annual-avg,"€50,800"
+,https://www.capology.com/club/vps/salaries/2024/,weekly-avg,€747
+,https://www.capology.com/club/vps/salaries/2024/,annual-avg,"€38,833"

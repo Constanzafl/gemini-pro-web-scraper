@@ -1,0 +1,111 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/albacete/salaries/,weekly-avg,"€3,603"
+,https://www.capology.com/club/albacete/salaries/,annual-avg,"€187,368"
+,https://www.capology.com/club/almeria/salaries/,weekly-avg,"€9,808"
+,https://www.capology.com/club/almeria/salaries/,annual-avg,"€510,000"
+,https://www.capology.com/club/burgos/salaries/,weekly-avg,"€6,298"
+,https://www.capology.com/club/burgos/salaries/,annual-avg,"€327,500"
+,https://www.capology.com/club/cadiz/salaries/,weekly-avg,"€11,592"
+,https://www.capology.com/club/cadiz/salaries/,annual-avg,"€602,800"
+,https://www.capology.com/club/cartagena/salaries/,weekly-avg,"€5,689"
+,https://www.capology.com/club/cartagena/salaries/,annual-avg,"€295,833"
+,https://www.capology.com/club/castellon/salaries/,weekly-avg,€0
+,https://www.capology.com/club/castellon/salaries/,annual-avg,€0
+,https://www.capology.com/club/cordoba/salaries/,weekly-avg,€0
+,https://www.capology.com/club/cordoba/salaries/,annual-avg,€0
+,https://www.capology.com/club/deportivo/salaries/,weekly-avg,€105
+,https://www.capology.com/club/deportivo/salaries/,annual-avg,"€5,455"
+,https://www.capology.com/club/eibar/salaries/,weekly-avg,"€7,262"
+,https://www.capology.com/club/eibar/salaries/,annual-avg,"€377,647"
+,https://www.capology.com/club/elche/salaries/,weekly-avg,"€8,251"
+,https://www.capology.com/club/elche/salaries/,annual-avg,"€429,048"
+,https://www.capology.com/club/eldense/salaries/,weekly-avg,"€2,354"
+,https://www.capology.com/club/eldense/salaries/,annual-avg,"€122,400"
+,https://www.capology.com/club/granada/salaries/,weekly-avg,"€13,878"
+,https://www.capology.com/club/granada/salaries/,annual-avg,"€721,667"
+,https://www.capology.com/club/huesca/salaries/,weekly-avg,"€3,822"
+,https://www.capology.com/club/huesca/salaries/,annual-avg,"€198,750"
+,https://www.capology.com/club/levante/salaries/,weekly-avg,"€4,895"
+,https://www.capology.com/club/levante/salaries/,annual-avg,"€254,545"
+,https://www.capology.com/club/malaga/salaries/,weekly-avg,€296
+,https://www.capology.com/club/malaga/salaries/,annual-avg,"€15,417"
+,https://www.capology.com/club/mirandes/salaries/,weekly-avg,"€1,827"
+,https://www.capology.com/club/mirandes/salaries/,annual-avg,"€95,000"
+,https://www.capology.com/club/racing-ferrol/salaries/,weekly-avg,"€3,151"
+,https://www.capology.com/club/racing-ferrol/salaries/,annual-avg,"€163,846"
+,https://www.capology.com/club/racing-santander/salaries/,weekly-avg,"€4,829"
+,https://www.capology.com/club/racing-santander/salaries/,annual-avg,"€251,111"
+,https://www.capology.com/club/real-oviedo/salaries/,weekly-avg,"€5,789"
+,https://www.capology.com/club/real-oviedo/salaries/,annual-avg,"€301,029"
+,https://www.capology.com/club/sporting-gijon/salaries/,weekly-avg,"€5,235"
+,https://www.capology.com/club/sporting-gijon/salaries/,annual-avg,"€272,222"
+,https://www.capology.com/club/tenerife/salaries/,weekly-avg,"€3,624"
+,https://www.capology.com/club/tenerife/salaries/,annual-avg,"€188,438"
+,https://www.capology.com/club/zaragoza/salaries/,weekly-avg,"€4,292"
+,https://www.capology.com/club/zaragoza/salaries/,annual-avg,"€223,200"

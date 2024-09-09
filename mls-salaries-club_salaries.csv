@@ -1,0 +1,125 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/atlanta-united/salaries/2024/,weekly-avg,"$6,451"
+,https://www.capology.com/club/atlanta-united/salaries/2024/,annual-avg,"$335,452"
+,https://www.capology.com/club/austin/salaries/2024/,weekly-avg,"$9,738"
+,https://www.capology.com/club/austin/salaries/2024/,annual-avg,"$506,369"
+,https://www.capology.com/club/cf-montreal/salaries/2024/,weekly-avg,"$6,423"
+,https://www.capology.com/club/cf-montreal/salaries/2024/,annual-avg,"$333,984"
+,https://www.capology.com/club/charlotte-fc/salaries/2024/,weekly-avg,"$6,711"
+,https://www.capology.com/club/charlotte-fc/salaries/2024/,annual-avg,"$348,971"
+,https://www.capology.com/club/chicago-fire/salaries/2024/,weekly-avg,"$11,004"
+,https://www.capology.com/club/chicago-fire/salaries/2024/,annual-avg,"$572,221"
+,https://www.capology.com/club/colorado-rapids/salaries/2024/,weekly-avg,"$8,771"
+,https://www.capology.com/club/colorado-rapids/salaries/2024/,annual-avg,"$456,102"
+,https://www.capology.com/club/columbus-crew/salaries/2024/,weekly-avg,"$9,230"
+,https://www.capology.com/club/columbus-crew/salaries/2024/,annual-avg,"$479,934"
+,https://www.capology.com/club/dc-united/salaries/2024/,weekly-avg,"$9,577"
+,https://www.capology.com/club/dc-united/salaries/2024/,annual-avg,"$498,012"
+,https://www.capology.com/club/fc-cincinnati/salaries/2024/,weekly-avg,"$9,171"
+,https://www.capology.com/club/fc-cincinnati/salaries/2024/,annual-avg,"$476,900"
+,https://www.capology.com/club/fc-dallas/salaries/2024/,weekly-avg,"$7,619"
+,https://www.capology.com/club/fc-dallas/salaries/2024/,annual-avg,"$396,191"
+,https://www.capology.com/club/houston-dynamo/salaries/2024/,weekly-avg,"$9,720"
+,https://www.capology.com/club/houston-dynamo/salaries/2024/,annual-avg,"$505,434"
+,https://www.capology.com/club/inter-miami/salaries/2024/,weekly-avg,"$18,111"
+,https://www.capology.com/club/inter-miami/salaries/2024/,annual-avg,"$941,776"
+,https://www.capology.com/club/la-fc/salaries/2024/,weekly-avg,"$9,330"
+,https://www.capology.com/club/la-fc/salaries/2024/,annual-avg,"$485,154"
+,https://www.capology.com/club/la-galaxy/salaries/2024/,weekly-avg,"$13,694"
+,https://www.capology.com/club/la-galaxy/salaries/2024/,annual-avg,"$712,108"
+,https://www.capology.com/club/minnesota-united/salaries/2024/,weekly-avg,"$6,842"
+,https://www.capology.com/club/minnesota-united/salaries/2024/,annual-avg,"$355,810"
+,https://www.capology.com/club/nashville-sc/salaries/2024/,weekly-avg,"$11,651"
+,https://www.capology.com/club/nashville-sc/salaries/2024/,annual-avg,"$605,862"
+,https://www.capology.com/club/ne-revolution/salaries/2024/,weekly-avg,"$9,209"
+,https://www.capology.com/club/ne-revolution/salaries/2024/,annual-avg,"$478,875"
+,https://www.capology.com/club/nyc-fc/salaries/2024/,weekly-avg,"$8,512"
+,https://www.capology.com/club/nyc-fc/salaries/2024/,annual-avg,"$442,640"
+,https://www.capology.com/club/ny-red-bulls/salaries/2024/,weekly-avg,"$10,565"
+,https://www.capology.com/club/ny-red-bulls/salaries/2024/,annual-avg,"$549,402"
+,https://www.capology.com/club/orlando-city/salaries/2024/,weekly-avg,"$8,178"
+,https://www.capology.com/club/orlando-city/salaries/2024/,annual-avg,"$425,248"
+,https://www.capology.com/club/philadelphia-union/salaries/2024/,weekly-avg,"$6,990"
+,https://www.capology.com/club/philadelphia-union/salaries/2024/,annual-avg,"$363,486"
+,https://www.capology.com/club/portland-timbers/salaries/2024/,weekly-avg,"$10,097"
+,https://www.capology.com/club/portland-timbers/salaries/2024/,annual-avg,"$525,041"
+,https://www.capology.com/club/real-salt-lake/salaries/2024/,weekly-avg,"$5,803"
+,https://www.capology.com/club/real-salt-lake/salaries/2024/,annual-avg,"$301,731"
+,https://www.capology.com/club/san-jose-earthquakes/salaries/2024/,weekly-avg,"$7,804"
+,https://www.capology.com/club/san-jose-earthquakes/salaries/2024/,annual-avg,"$405,828"
+,https://www.capology.com/club/seattle-sounders/salaries/2024/,weekly-avg,"$10,668"
+,https://www.capology.com/club/seattle-sounders/salaries/2024/,annual-avg,"$554,728"
+,https://www.capology.com/club/sporting-kc/salaries/2024/,weekly-avg,"$10,496"
+,https://www.capology.com/club/sporting-kc/salaries/2024/,annual-avg,"$545,783"
+,https://www.capology.com/club/st-louis-city/salaries/2024/,weekly-avg,"$5,487"
+,https://www.capology.com/club/st-louis-city/salaries/2024/,annual-avg,"$285,314"
+,https://www.capology.com/club/toronto-fc/salaries/2024/,weekly-avg,"$13,244"
+,https://www.capology.com/club/toronto-fc/salaries/2024/,annual-avg,"$688,666"
+,https://www.capology.com/club/vancouver-whitecaps/salaries/2024/,weekly-avg,"$9,843"
+,https://www.capology.com/club/vancouver-whitecaps/salaries/2024/,annual-avg,"$511,836"

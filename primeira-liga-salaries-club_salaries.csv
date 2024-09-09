@@ -1,0 +1,103 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/arouca/salaries/,weekly-avg,"€3,809"
+,https://www.capology.com/club/arouca/salaries/,annual-avg,"€198,065"
+,https://www.capology.com/club/avs/salaries/,weekly-avg,€0
+,https://www.capology.com/club/avs/salaries/,annual-avg,€0
+,https://www.capology.com/club/benfica/salaries/,weekly-avg,"€27,788"
+,https://www.capology.com/club/benfica/salaries/,annual-avg,"€1,445,000"
+,https://www.capology.com/club/boavista/salaries/,weekly-avg,"€2,196"
+,https://www.capology.com/club/boavista/salaries/,annual-avg,"€114,167"
+,https://www.capology.com/club/braga/salaries/,weekly-avg,"€7,308"
+,https://www.capology.com/club/braga/salaries/,annual-avg,"€380,000"
+,https://www.capology.com/club/casa-pia/salaries/,weekly-avg,"€1,857"
+,https://www.capology.com/club/casa-pia/salaries/,annual-avg,"€96,552"
+,https://www.capology.com/club/estoril/salaries/,weekly-avg,"€1,302"
+,https://www.capology.com/club/estoril/salaries/,annual-avg,"€67,692"
+,https://www.capology.com/club/estrela-amadora/salaries/,weekly-avg,€881
+,https://www.capology.com/club/estrela-amadora/salaries/,annual-avg,"€45,833"
+,https://www.capology.com/club/famalicao/salaries/,weekly-avg,"€2,550"
+,https://www.capology.com/club/famalicao/salaries/,annual-avg,"€132,593"
+,https://www.capology.com/club/farense/salaries/,weekly-avg,€901
+,https://www.capology.com/club/farense/salaries/,annual-avg,"€46,833"
+,https://www.capology.com/club/gil-vicente/salaries/,weekly-avg,"€1,167"
+,https://www.capology.com/club/gil-vicente/salaries/,annual-avg,"€60,667"
+,https://www.capology.com/club/moreirense/salaries/,weekly-avg,"€2,075"
+,https://www.capology.com/club/moreirense/salaries/,annual-avg,"€107,917"
+,https://www.capology.com/club/nacional/salaries/,weekly-avg,€453
+,https://www.capology.com/club/nacional/salaries/,annual-avg,"€23,548"
+,https://www.capology.com/club/porto/salaries/,weekly-avg,"€17,261"
+,https://www.capology.com/club/porto/salaries/,annual-avg,"€897,586"
+,https://www.capology.com/club/rio-ave/salaries/,weekly-avg,"€1,885"
+,https://www.capology.com/club/rio-ave/salaries/,annual-avg,"€98,000"
+,https://www.capology.com/club/santa-clara/salaries/,weekly-avg,"€1,033"
+,https://www.capology.com/club/santa-clara/salaries/,annual-avg,"€53,704"
+,https://www.capology.com/club/sporting-lisbon/salaries/,weekly-avg,"€15,164"
+,https://www.capology.com/club/sporting-lisbon/salaries/,annual-avg,"€788,519"
+,https://www.capology.com/club/vitoria-sc/salaries/,weekly-avg,"€3,198"
+,https://www.capology.com/club/vitoria-sc/salaries/,annual-avg,"€166,296"

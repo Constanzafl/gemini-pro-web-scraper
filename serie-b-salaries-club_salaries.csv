@@ -1,0 +1,107 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/bari/salaries/,weekly-avg,"€5,385"
+,https://www.capology.com/club/bari/salaries/,annual-avg,"€280,000"
+,https://www.capology.com/club/brescia/salaries/,weekly-avg,"€7,228"
+,https://www.capology.com/club/brescia/salaries/,annual-avg,"€375,846"
+,https://www.capology.com/club/carrarese/salaries/,weekly-avg,€64
+,https://www.capology.com/club/carrarese/salaries/,annual-avg,"€3,333"
+,https://www.capology.com/club/catanzaro/salaries/,weekly-avg,"€5,060"
+,https://www.capology.com/club/catanzaro/salaries/,annual-avg,"€263,143"
+,https://www.capology.com/club/cesena/salaries/,weekly-avg,€0
+,https://www.capology.com/club/cesena/salaries/,annual-avg,€0
+,https://www.capology.com/club/cittadella/salaries/,weekly-avg,"€3,897"
+,https://www.capology.com/club/cittadella/salaries/,annual-avg,"€202,655"
+,https://www.capology.com/club/cosenza/salaries/,weekly-avg,"€4,640"
+,https://www.capology.com/club/cosenza/salaries/,annual-avg,"€241,286"
+,https://www.capology.com/club/cremonese/salaries/,weekly-avg,"€9,780"
+,https://www.capology.com/club/cremonese/salaries/,annual-avg,"€508,571"
+,https://www.capology.com/club/frosinone/salaries/,weekly-avg,"€10,156"
+,https://www.capology.com/club/frosinone/salaries/,annual-avg,"€528,095"
+,https://www.capology.com/club/juve-stabia/salaries/,weekly-avg,€0
+,https://www.capology.com/club/juve-stabia/salaries/,annual-avg,€0
+,https://www.capology.com/club/mantova/salaries/,weekly-avg,€0
+,https://www.capology.com/club/mantova/salaries/,annual-avg,€0
+,https://www.capology.com/club/modena/salaries/,weekly-avg,"€5,308"
+,https://www.capology.com/club/modena/salaries/,annual-avg,"€276,000"
+,https://www.capology.com/club/palermo/salaries/,weekly-avg,"€9,100"
+,https://www.capology.com/club/palermo/salaries/,annual-avg,"€473,214"
+,https://www.capology.com/club/pisa/salaries/,weekly-avg,"€6,780"
+,https://www.capology.com/club/pisa/salaries/,annual-avg,"€352,556"
+,https://www.capology.com/club/reggiana/salaries/,weekly-avg,"€6,198"
+,https://www.capology.com/club/reggiana/salaries/,annual-avg,"€322,273"
+,https://www.capology.com/club/salernitana/salaries/,weekly-avg,"€16,915"
+,https://www.capology.com/club/salernitana/salaries/,annual-avg,"€879,583"
+,https://www.capology.com/club/sampdoria/salaries/,weekly-avg,"€11,583"
+,https://www.capology.com/club/sampdoria/salaries/,annual-avg,"€602,333"
+,https://www.capology.com/club/sassuolo/salaries/,weekly-avg,"€15,999"
+,https://www.capology.com/club/sassuolo/salaries/,annual-avg,"€831,944"
+,https://www.capology.com/club/spezia/salaries/,weekly-avg,"€10,199"
+,https://www.capology.com/club/spezia/salaries/,annual-avg,"€530,323"
+,https://www.capology.com/club/sudtirol/salaries/,weekly-avg,"€5,274"
+,https://www.capology.com/club/sudtirol/salaries/,annual-avg,"€274,231"

@@ -1,0 +1,103 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/america/salaries/,weekly-avg,"$16,902"
+,https://www.capology.com/club/america/salaries/,annual-avg,"$878,929"
+,https://www.capology.com/club/atlas/salaries/,weekly-avg,"$5,825"
+,https://www.capology.com/club/atlas/salaries/,annual-avg,"$302,917"
+,https://www.capology.com/club/atletico-san-luis/salaries/,weekly-avg,"$3,386"
+,https://www.capology.com/club/atletico-san-luis/salaries/,annual-avg,"$176,071"
+,https://www.capology.com/club/cruz-azul/salaries/,weekly-avg,"$9,494"
+,https://www.capology.com/club/cruz-azul/salaries/,annual-avg,"$493,667"
+,https://www.capology.com/club/guadalajara/salaries/,weekly-avg,"$9,973"
+,https://www.capology.com/club/guadalajara/salaries/,annual-avg,"$518,621"
+,https://www.capology.com/club/juarez/salaries/,weekly-avg,"$5,535"
+,https://www.capology.com/club/juarez/salaries/,annual-avg,"$287,813"
+,https://www.capology.com/club/leon/salaries/,weekly-avg,"$4,987"
+,https://www.capology.com/club/leon/salaries/,annual-avg,"$259,333"
+,https://www.capology.com/club/mazatlan/salaries/,weekly-avg,"$6,065"
+,https://www.capology.com/club/mazatlan/salaries/,annual-avg,"$315,385"
+,https://www.capology.com/club/monterrey/salaries/,weekly-avg,"$18,757"
+,https://www.capology.com/club/monterrey/salaries/,annual-avg,"$975,357"
+,https://www.capology.com/club/necaxa/salaries/,weekly-avg,"$4,003"
+,https://www.capology.com/club/necaxa/salaries/,annual-avg,"$208,182"
+,https://www.capology.com/club/pachuca/salaries/,weekly-avg,"$4,866"
+,https://www.capology.com/club/pachuca/salaries/,annual-avg,"$253,030"
+,https://www.capology.com/club/puebla/salaries/,weekly-avg,"$4,910"
+,https://www.capology.com/club/puebla/salaries/,annual-avg,"$255,333"
+,https://www.capology.com/club/queretaro/salaries/,weekly-avg,"$4,523"
+,https://www.capology.com/club/queretaro/salaries/,annual-avg,"$235,185"
+,https://www.capology.com/club/santos-laguna/salaries/,weekly-avg,"$5,398"
+,https://www.capology.com/club/santos-laguna/salaries/,annual-avg,"$280,690"
+,https://www.capology.com/club/tijuana/salaries/,weekly-avg,"$5,153"
+,https://www.capology.com/club/tijuana/salaries/,annual-avg,"$267,931"
+,https://www.capology.com/club/toluca/salaries/,weekly-avg,"$7,182"
+,https://www.capology.com/club/toluca/salaries/,annual-avg,"$373,462"
+,https://www.capology.com/club/uanl/salaries/,weekly-avg,"$16,598"
+,https://www.capology.com/club/uanl/salaries/,annual-avg,"$863,103"
+,https://www.capology.com/club/unam/salaries/,weekly-avg,"$6,993"
+,https://www.capology.com/club/unam/salaries/,annual-avg,"$363,636"

@@ -1,0 +1,103 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/angers/salaries/,weekly-avg,"€6,484"
+,https://www.capology.com/club/angers/salaries/,annual-avg,"€337,188"
+,https://www.capology.com/club/auxerre/salaries/,weekly-avg,"€8,966"
+,https://www.capology.com/club/auxerre/salaries/,annual-avg,"€466,207"
+,https://www.capology.com/club/brest/salaries/,weekly-avg,"€14,453"
+,https://www.capology.com/club/brest/salaries/,annual-avg,"€751,538"
+,https://www.capology.com/club/le-havre/salaries/,weekly-avg,"€6,771"
+,https://www.capology.com/club/le-havre/salaries/,annual-avg,"€352,069"
+,https://www.capology.com/club/lens/salaries/,weekly-avg,"€15,126"
+,https://www.capology.com/club/lens/salaries/,annual-avg,"€786,552"
+,https://www.capology.com/club/lille/salaries/,weekly-avg,"€16,120"
+,https://www.capology.com/club/lille/salaries/,annual-avg,"€838,214"
+,https://www.capology.com/club/lyon/salaries/,weekly-avg,"€31,712"
+,https://www.capology.com/club/lyon/salaries/,annual-avg,"€1,649,032"
+,https://www.capology.com/club/marseille/salaries/,weekly-avg,"€33,750"
+,https://www.capology.com/club/marseille/salaries/,annual-avg,"€1,755,000"
+,https://www.capology.com/club/monaco/salaries/,weekly-avg,"€36,662"
+,https://www.capology.com/club/monaco/salaries/,annual-avg,"€1,906,400"
+,https://www.capology.com/club/montpellier/salaries/,weekly-avg,"€11,418"
+,https://www.capology.com/club/montpellier/salaries/,annual-avg,"€593,750"
+,https://www.capology.com/club/nantes/salaries/,weekly-avg,"€14,691"
+,https://www.capology.com/club/nantes/salaries/,annual-avg,"€763,913"
+,https://www.capology.com/club/nice/salaries/,weekly-avg,"€14,004"
+,https://www.capology.com/club/nice/salaries/,annual-avg,"€728,214"
+,https://www.capology.com/club/psg/salaries/,weekly-avg,"€118,419"
+,https://www.capology.com/club/psg/salaries/,annual-avg,"€6,157,813"
+,https://www.capology.com/club/reims/salaries/,weekly-avg,"€9,808"
+,https://www.capology.com/club/reims/salaries/,annual-avg,"€510,000"
+,https://www.capology.com/club/rennes/salaries/,weekly-avg,"€12,023"
+,https://www.capology.com/club/rennes/salaries/,annual-avg,"€625,200"
+,https://www.capology.com/club/st-etienne/salaries/,weekly-avg,"€6,296"
+,https://www.capology.com/club/st-etienne/salaries/,annual-avg,"€327,407"
+,https://www.capology.com/club/strasbourg/salaries/,weekly-avg,"€6,188"
+,https://www.capology.com/club/strasbourg/salaries/,annual-avg,"€321,765"
+,https://www.capology.com/club/toulouse/salaries/,weekly-avg,"€6,923"
+,https://www.capology.com/club/toulouse/salaries/,annual-avg,"€360,000"

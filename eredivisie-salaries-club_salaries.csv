@@ -1,0 +1,103 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/ajax/salaries/,weekly-avg,"€22,454"
+,https://www.capology.com/club/ajax/salaries/,annual-avg,"€1,167,586"
+,https://www.capology.com/club/almere/salaries/,weekly-avg,"€1,034"
+,https://www.capology.com/club/almere/salaries/,annual-avg,"€53,750"
+,https://www.capology.com/club/az-alkmaar/salaries/,weekly-avg,"€4,917"
+,https://www.capology.com/club/az-alkmaar/salaries/,annual-avg,"€255,667"
+,https://www.capology.com/club/feyenoord/salaries/,weekly-avg,"€14,178"
+,https://www.capology.com/club/feyenoord/salaries/,annual-avg,"€737,241"
+,https://www.capology.com/club/fortuna-sittard/salaries/,weekly-avg,"€2,800"
+,https://www.capology.com/club/fortuna-sittard/salaries/,annual-avg,"€145,600"
+,https://www.capology.com/club/go-ahead-eagles/salaries/,weekly-avg,"€1,857"
+,https://www.capology.com/club/go-ahead-eagles/salaries/,annual-avg,"€96,538"
+,https://www.capology.com/club/groningen/salaries/,weekly-avg,"€1,139"
+,https://www.capology.com/club/groningen/salaries/,annual-avg,"€59,231"
+,https://www.capology.com/club/heerenveen/salaries/,weekly-avg,"€2,393"
+,https://www.capology.com/club/heerenveen/salaries/,annual-avg,"€124,444"
+,https://www.capology.com/club/heracles/salaries/,weekly-avg,"€1,526"
+,https://www.capology.com/club/heracles/salaries/,annual-avg,"€79,333"
+,https://www.capology.com/club/nac-breda/salaries/,weekly-avg,€458
+,https://www.capology.com/club/nac-breda/salaries/,annual-avg,"€23,793"
+,https://www.capology.com/club/nec-nijmegen/salaries/,weekly-avg,"€2,849"
+,https://www.capology.com/club/nec-nijmegen/salaries/,annual-avg,"€148,148"
+,https://www.capology.com/club/pec-zwolle/salaries/,weekly-avg,"€2,500"
+,https://www.capology.com/club/pec-zwolle/salaries/,annual-avg,"€130,000"
+,https://www.capology.com/club/psv/salaries/,weekly-avg,"€18,346"
+,https://www.capology.com/club/psv/salaries/,annual-avg,"€954,000"
+,https://www.capology.com/club/rkc-waalwijk/salaries/,weekly-avg,"€1,731"
+,https://www.capology.com/club/rkc-waalwijk/salaries/,annual-avg,"€90,000"
+,https://www.capology.com/club/sparta-rotterdam/salaries/,weekly-avg,"€3,389"
+,https://www.capology.com/club/sparta-rotterdam/salaries/,annual-avg,"€176,250"
+,https://www.capology.com/club/twente/salaries/,weekly-avg,"€4,467"
+,https://www.capology.com/club/twente/salaries/,annual-avg,"€232,308"
+,https://www.capology.com/club/utrecht/salaries/,weekly-avg,"€3,805"
+,https://www.capology.com/club/utrecht/salaries/,annual-avg,"€197,857"
+,https://www.capology.com/club/willem-ii/salaries/,weekly-avg,€451
+,https://www.capology.com/club/willem-ii/salaries/,annual-avg,"€23,462"

@@ -1,0 +1,99 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/aik/salaries/2024/,weekly-avg,"€2,995"
+,https://www.capology.com/club/aik/salaries/2024/,annual-avg,"€155,714"
+,https://www.capology.com/club/brommapojkarna/salaries/2024/,weekly-avg,"€1,346"
+,https://www.capology.com/club/brommapojkarna/salaries/2024/,annual-avg,"€70,000"
+,https://www.capology.com/club/djurgardens/salaries/2024/,weekly-avg,"€3,860"
+,https://www.capology.com/club/djurgardens/salaries/2024/,annual-avg,"€200,741"
+,https://www.capology.com/club/elfsborg/salaries/2024/,weekly-avg,"€2,062"
+,https://www.capology.com/club/elfsborg/salaries/2024/,annual-avg,"€107,200"
+,https://www.capology.com/club/gais/salaries/2024/,weekly-avg,"€1,827"
+,https://www.capology.com/club/gais/salaries/2024/,annual-avg,"€95,000"
+,https://www.capology.com/club/goteborg/salaries/2024/,weekly-avg,"€2,911"
+,https://www.capology.com/club/goteborg/salaries/2024/,annual-avg,"€151,379"
+,https://www.capology.com/club/hacken/salaries/2024/,weekly-avg,"€2,613"
+,https://www.capology.com/club/hacken/salaries/2024/,annual-avg,"€135,862"
+,https://www.capology.com/club/halmstad/salaries/2024/,weekly-avg,"€1,881"
+,https://www.capology.com/club/halmstad/salaries/2024/,annual-avg,"€97,826"
+,https://www.capology.com/club/hammarby/salaries/2024/,weekly-avg,"€2,300"
+,https://www.capology.com/club/hammarby/salaries/2024/,annual-avg,"€119,600"
+,https://www.capology.com/club/kalmar/salaries/2024/,weekly-avg,"€2,034"
+,https://www.capology.com/club/kalmar/salaries/2024/,annual-avg,"€105,769"
+,https://www.capology.com/club/malmo/salaries/2024/,weekly-avg,"€5,527"
+,https://www.capology.com/club/malmo/salaries/2024/,annual-avg,"€287,407"
+,https://www.capology.com/club/mjallby/salaries/2024/,weekly-avg,"€1,375"
+,https://www.capology.com/club/mjallby/salaries/2024/,annual-avg,"€71,481"
+,https://www.capology.com/club/norrkoping/salaries/2024/,weekly-avg,"€2,135"
+,https://www.capology.com/club/norrkoping/salaries/2024/,annual-avg,"€111,034"
+,https://www.capology.com/club/sirius/salaries/2024/,weekly-avg,"€1,410"
+,https://www.capology.com/club/sirius/salaries/2024/,annual-avg,"€73,333"
+,https://www.capology.com/club/varnamo/salaries/2024/,weekly-avg,"€1,597"
+,https://www.capology.com/club/varnamo/salaries/2024/,annual-avg,"€83,043"
+,https://www.capology.com/club/vasteras/salaries/2024/,weekly-avg,"€1,470"
+,https://www.capology.com/club/vasteras/salaries/2024/,annual-avg,"€76,452"

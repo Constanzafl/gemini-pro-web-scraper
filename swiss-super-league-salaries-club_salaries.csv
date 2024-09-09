@@ -1,0 +1,91 @@
+club_name,url,element_id,value
+,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.comClub,annual-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00538213+26163]
+	(No symbol) [0x004C9CC4]
+	(No symbol) [0x003C24C3]
+	(No symbol) [0x003BAAD1]
+	(No symbol) [0x003AE668]
+	(No symbol) [0x003B008B]
+	(No symbol) [0x003AE8B7]
+	(No symbol) [0x003AE25C]
+	(No symbol) [0x003AE188]
+	(No symbol) [0x003AC588]
+	(No symbol) [0x003ACB1B]
+	(No symbol) [0x003C4F04]
+	(No symbol) [0x00445107]
+	(No symbol) [0x0042ACBC]
+	(No symbol) [0x00444661]
+	(No symbol) [0x0042AA56]
+	(No symbol) [0x003FBE89]
+	(No symbol) [0x003FC8CD]
+	GetHandleVerifier [0x0080D313+2996019]
+	GetHandleVerifier [0x00861B89+3342249]
+	GetHandleVerifier [0x005C7AEF+614159]
+	GetHandleVerifier [0x005CF17C+644508]
+	(No symbol) [0x004D27FD]
+	(No symbol) [0x004CF6F8]
+	(No symbol) [0x004CF895]
+	(No symbol) [0x004C1C16]
+	BaseThreadInitThunk [0x76E77BA9+25]
+	RtlInitializeExceptionChain [0x7783C10B+107]
+	RtlClearBits [0x7783C08F+191]
+"
+,https://www.capology.com/club/basel/salaries/,weekly-avg,"€7,266"
+,https://www.capology.com/club/basel/salaries/,annual-avg,"€377,813"
+,https://www.capology.com/club/grasshopper/salaries/,weekly-avg,"€2,764"
+,https://www.capology.com/club/grasshopper/salaries/,annual-avg,"€143,714"
+,https://www.capology.com/club/lausanne/salaries/,weekly-avg,"€3,750"
+,https://www.capology.com/club/lausanne/salaries/,annual-avg,"€195,000"
+,https://www.capology.com/club/lugano/salaries/,weekly-avg,"€3,331"
+,https://www.capology.com/club/lugano/salaries/,annual-avg,"€173,214"
+,https://www.capology.com/club/luzern/salaries/,weekly-avg,"€2,412"
+,https://www.capology.com/club/luzern/salaries/,annual-avg,"€125,417"
+,https://www.capology.com/club/servette/salaries/,weekly-avg,"€3,927"
+,https://www.capology.com/club/servette/salaries/,annual-avg,"€204,194"
+,https://www.capology.com/club/sion/salaries/,weekly-avg,"€1,718"
+,https://www.capology.com/club/sion/salaries/,annual-avg,"€89,333"
+,https://www.capology.com/club/st-gallen/salaries/,weekly-avg,"€5,890"
+,https://www.capology.com/club/st-gallen/salaries/,annual-avg,"€306,296"
+,https://www.capology.com/club/winterthur/salaries/,weekly-avg,"€2,891"
+,https://www.capology.com/club/winterthur/salaries/,annual-avg,"€150,357"
+,https://www.capology.com/club/young-boys/salaries/,weekly-avg,"€8,627"
+,https://www.capology.com/club/young-boys/salaries/,annual-avg,"€448,621"
+,https://www.capology.com/club/yverdon/salaries/,weekly-avg,"€2,058"
+,https://www.capology.com/club/yverdon/salaries/,annual-avg,"€107,000"
+,https://www.capology.com/club/zurich/salaries/,weekly-avg,"€4,178"
+,https://www.capology.com/club/zurich/salaries/,annual-avg,"€217,273"
