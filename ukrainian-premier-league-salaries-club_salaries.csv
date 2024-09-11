@@ -1,4 +1,4 @@
-club_name,url,element_id,value
+gclub_name,url,element_id,value
 ,https://www.capology.comClub,weekly-avg,"Error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
   (Session info: chrome=128.0.6613.120)
 Stacktrace:
